@@ -11,6 +11,7 @@ Visual Studio (optional)
 
 ## Step 1. Please copy the project URL.
 
+`open this link - https://github.com/KapilAminbhavi93/Dissertation.git`
 
 ## Step 2. Please install the following dependencies on either Visual Studio Terminal or Windows Terminal. If Linux is an option, then diretly install the dependencies in the terminal.
 
